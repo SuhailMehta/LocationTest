@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocationTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_update">UPDATE</string>
+
+    <string name="location_disable">Location Disable</string>
+    <string name="location_disable_body">Please turn on location to high accuracy!</string>
+    <string name="enable_gps">ENABLE GPS</string>
+    <string name="cancel">CANCEL</string>
+    <string name="connection_error">Connection Error!</string>
+    <string name="connection_error_body">Check Your Internet Connection</string>
+    <string name="ok">OK</string>
+</resources>
